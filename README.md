@@ -20,7 +20,7 @@ Motivated to contribute to software quality excellence through systematic testin
 - **Manual Testing:** Test Case Writing, Regression Testing, Functional Testing, UAT
 - **Automation Testing:** Cypress, Katalon Studio
 - **API Testing:** Postman, REST API, JSON Validation
-- **Tools:** ClickUp, Qase.io, Google Sheets, GitHub, SQL
+- **Tools:** ClickUp, Qase.io, Google Sheets, GitHub, SQL, Visual Studio Code
 - **Methodology:** Agile, Scrum, SDLC, STLC
 
 ### 💡 Soft Skills
