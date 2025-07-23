@@ -7,9 +7,13 @@
 
 ## 📝 Professional Summary
 
-Quality Assurance Bootcamp Graduate with strong interest in software testing and quality improvement.  
-Completed intensive training in manual and automated testing, including practical experience with Cypress, Postman, and SQL.  
-Motivated to contribute to software quality excellence through systematic testing approaches and collaborative teamwork in Agile environments.
+Quality Assurance Engineer with intensive bootcamp training and hands-on experience in manual &
+automated testing of web and mobile applications using Cypress (JavaScript), Katalon Studio,
+Postman, JMeter, and SQL. Proficient in Qase.io, ClickUp, and Google Sheets for comprehensive
+test case management, defect tracking, and reporting. Experienced in creating BDD Cucumber
+scenarios, and well-versed in SDLC, STLC, and Agile methodologies. Confident in integrating Qase.io
+and utilizing ClickUp for streamlined execution, traceability, and effective collaboration with
+cross-functional teams to ensure high-quality software delivery.
 
 ---
 
@@ -20,7 +24,7 @@ Motivated to contribute to software quality excellence through systematic testin
 - **Manual Testing:** Test Case Writing, Regression Testing, Functional Testing, UAT
 - **Automation Testing:** Cypress, Katalon Studio
 - **API Testing:** Postman, REST API, JSON Validation
-- **Tools:** ClickUp, Qase.io, Google Sheets, GitHub, SQL, Visual Studio Code
+- **Tools:** ClickUp, Qase.io, Google Sheets, GitHub, Apache Jmeter, SQL, Visual Studio Code
 - **Methodology:** Agile, Scrum, SDLC, STLC
 
 ### 💡 Soft Skills
