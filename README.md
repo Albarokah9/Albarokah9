@@ -13,7 +13,7 @@ Postman, JMeter, and SQL. Proficient in Qase.io, ClickUp, and Google Sheets for 
 test case management, defect tracking, and reporting. Experienced in creating BDD Cucumber
 scenarios, and well-versed in SDLC, STLC, and Agile methodologies. Confident in integrating Qase.io
 and utilizing ClickUp for streamlined execution, traceability, and effective collaboration with
-cross-functional teams to ensure high-quality software delivery.
+cross-functional teams to ensure high-quality software delivery. With a strong understanding of SDLC, STLC, and Agile methodologies, I am more than just a tester—I am an active contributor throughout the software development lifecycle. My detail-oriented approach, combined with a mindset focused on continuous improvement, ensures the delivery of high-quality, user-centric products.
 
 ---
 
