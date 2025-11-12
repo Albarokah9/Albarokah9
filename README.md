@@ -15,7 +15,7 @@ Quality Assurance Engineer with strong experience in web application testing, co
 
 ### 💻 Technical Skills
 
-- **Manual Testing:** Test Case Writing, Regression Testing, Functional Testing, UAT
+- **Manual Testing:** Test Case Writing, Test Execution, Bug Reporting, Regression  Testing, Functional Testing, Exploratory Testing, User Acceptance Testing (UAT), UI/UX Validation, Cross-Browser Testing, Test Scenario Design, Defect Severity/Priority Classification
 - **Automation Testing:** Cypress, Katalon Studio
 - **API Testing:** Postman, REST API, JSON Validation
 - **Tools:** ClickUp, Qase.io, Google Sheets, GitHub, Apache Jmeter, SQL, Visual Studio Code
