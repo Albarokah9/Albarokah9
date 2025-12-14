@@ -7,8 +7,11 @@
 
 ## 📝 Professional Summary
 
-Quality Assurance Engineer with strong experience in web application testing, covering Manual, Automation, and Performance testing. Skilled in Cypress (JavaScript), Katalon Studio, Postman, and JMeter, with solid knowledge of SDLC, STLC, and Agile/Scrum practices. Adept in designing test cases, executing end-to-end test scenarios, and reporting defects using ClickUp, Google Spreadsheet and Qase.io. Passionate about quality, usability, and continuous improvement to ensure reliable, scalable, and user-centric software delivery.
+Quality Assurance Engineer with hands-on experience in Manual Testing, Automation Testing, and Performance Testing for web and mobile applications. Currently working as a QA Tester Intern at Horus Technology, specializing in Black Box testing, Smoke Testing, and comprehensive test case design for internal web applications.
 
+Proficient in Cypress (JavaScript), Katalon Studio (Groovy), Postman, and JMeter with proven ability to build end-to-end automation frameworks using BDD Cucumber and Page Object Model. Experienced in API testing, performance testing, and mobile automation testing with strong knowledge of SDLC, STLC, and Agile/Scrum methodologies.
+
+Skilled in test management tools including ClickUp, Qase.io, and Google Spreadsheet for defect tracking and test documentation. Passionate about ensuring software quality, usability, and delivering reliable, scalable solutions through continuous testing and improvement.
 ---
 
 ## 🚀 Skills & Tools
