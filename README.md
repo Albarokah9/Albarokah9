@@ -12,6 +12,7 @@ Quality Assurance Engineer with hands-on experience in Manual Testing, Automatio
 Proficient in Cypress (JavaScript), Katalon Studio (Groovy), Postman, and JMeter with proven ability to build end-to-end automation frameworks using BDD Cucumber and Page Object Model. Experienced in API testing, performance testing, and mobile automation testing with strong knowledge of SDLC, STLC, and Agile/Scrum methodologies.
 
 Skilled in test management tools including ClickUp, Qase.io, and Google Spreadsheet for defect tracking and test documentation. Passionate about ensuring software quality, usability, and delivering reliable, scalable solutions through continuous testing and improvement.
+
 ---
 
 ## 🚀 Skills & Tools
